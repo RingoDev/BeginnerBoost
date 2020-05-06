@@ -22,7 +22,7 @@ When I got up in the morning I started working on setting up a SSH connection to
 Afterwards I will take a look at Netflify and buynamescheap.com to look for a domain to publish this Webpage. I took a look at Rob's build script and I will probably just copy it because it does exactly what I want it to do.
 
 **Notes:**  
-* pwd = "print working directory", shows the current working directory.
+- pwd = "print working directory", shows the current working directory.
 * ls = "list", lists files and subdirectories in current directory
 * clear = clears your terminal
 * cd /home/example = "change directory" changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
