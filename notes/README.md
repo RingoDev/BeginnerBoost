@@ -25,6 +25,7 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 
 * **pwd** -> "print working directory", shows the current working directory.
 * **ls** -> "list", lists files and subdirectories in current directory.
+* **ls -a** -> lists **all** files and subdirectories in current directory(directories starting with . are hidden normally).
 * **clear** -> Clears your terminal.
 * **cd /home/example** -> "change directory", changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
   * **cd -** -> Takes you to your last working directory.
@@ -54,5 +55,5 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * Learn about "magic wands" in VI.
 * Finish the Vimtutor.
 
-
+### Day 4
 
