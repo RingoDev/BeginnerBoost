@@ -37,17 +37,17 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **mv test.txt /home/example** -> Moves a file or directory to the target director (moves the file test.txt into the folder    "/home/example").
 * **touch test.txt** -> Creates the file test.txt. It actually updates the timestamp of a file but if it doesnt exist it creates a new one.
 * **rm test.txt** -> Removes a file.
-* **rm dir** -> Removes a directory.
-* **chmod -x test.sh** -> Makes a file executable (in this case "test.sh")
+* **rmdir /home/example** -> Removes a directory (in this case /home/example).
+* **chmod -x test.sh** -> Makes a file executable (in this case "test.sh").
 * **./test.sh** -> Runs test.sh if it is in you current working directory.
 
 **Vim commands**
 
-* **i** -> "insert Mode"
+* **i** -> "insert Mode".
 * **ESC** -> Takes you to normal mode.
 * **h,j,k,l** -> left, down, up, right.
 * **ZZ** -> Saves the file and exits.
-* **:q!** -> Saves the file without saving.
+* **:q!** -> Exits the file without saving.
 
 
 
