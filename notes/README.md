@@ -21,18 +21,34 @@ When I got up in the morning I started working on setting up a SSH connection to
 
 Afterwards I will take a look at Netflify and buynamescheap.com to look for a domain to publish this Webpage. I took a look at Rob's build script and I will probably just copy it because it does exactly what I want it to do.
 
-**Notes:**
+**Terminal commands**
 
-* *pwd* -> "print working directory", shows the current working directory.
-* *ls* -> "list", lists files and subdirectories in current directory.
-* *clear* -> Clears your terminal.
-* *cd /home/example* -> "change directory", changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
-  * *cd -* -> Takes you to your last working directory.
-  * *cd* -> Takes you to your home directory.
-  * *cd ..* -> Takes you to the parent directory.
-* *CTRL+C* -> Interrupts the current process.
-* *CTRL+S* -> Suspends your terminal. DONT DO IT!!
-* *CTRL+D* -> Sends an EOF(End of File) to stop a process.
+* **pwd** -> "print working directory", shows the current working directory.
+* **ls** -> "list", lists files and subdirectories in current directory.
+* **clear** -> Clears your terminal.
+* **cd /home/example** -> "change directory", changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
+  * **cd -** -> Takes you to your last working directory.
+  * **cd** -> Takes you to your home directory.
+  * **cd ..** -> Takes you to the parent directory.
+* **CTRL+C** -> Interrupts the current process.
+* **CTRL+S** -> Suspends your terminal. DONT DO IT!!
+* **CTRL+D** -> Sends an EOF(End of File) to stop a process.
+* **mkdir /home/example** -> "make directory", creates a new directory (in this case "/home/example").
+* **mv test.txt /home/example** -> Moves a file or directory to the target director (moves the file test.txt into the folder    "/home/example").
+* **touch test.txt** -> Creates the file test.txt. It actually updates the timestamp of a file but if it doesnt exist it creates a new one.
+* **rm test.txt** -> Removes a file.
+* **rm dir** -> Removes a directory.
+* **chmod -x test.sh** -> Makes a file executable (in this case "test.sh")
+* **./test.sh** -> Runs test.sh if it is in you current working directory.
+
+**Vim commands**
+
+* **i** -> "insert Mode"
+* **ESC** -> Takes you to normal mode.
+* **h,j,k,l** -> left, down, up, right.
+* **ZZ** -> Saves the file and exits.
+* **:q!** -> Saves the file without saving.
+
 
 
 

@@ -25,20 +25,35 @@
 <h3 id="day-3">Day 3</h3>
 <p>When I got up in the morning I started working on setting up a SSH connection to GitLab for easier access. I had some problems but GitLab has a great <a href="https://docs.gitlab.com/ee/ssh/">tutorial</a> on creating and sharing SSH-Keys right. I also researched about Pandoc and Markdown and made the decision to starting this “blog” to share my experience about the BeginnerBoost. After i finish this paragraph, I will try to write a Shell script to creae HTML files from Markdown with Pandoc and then push it up to GitLab.</p>
 <p>Afterwards I will take a look at Netflify and buynamescheap.com to look for a domain to publish this Webpage. I took a look at Rob’s build script and I will probably just copy it because it does exactly what I want it to do.</p>
-<p><strong>Notes:</strong></p>
+<p><strong>Terminal commands</strong></p>
 <ul>
-<li><em>pwd</em> -&gt; “print working directory”, shows the current working directory.</li>
-<li><em>ls</em> -&gt; “list”, lists files and subdirectories in current directory.</li>
-<li><em>clear</em> -&gt; Clears your terminal.</li>
-<li><em>cd /home/example</em> -&gt; “change directory”, changes your working directory(in that case to “/home/example”). USE TAB-COMPLETION!!
+<li><strong>pwd</strong> -&gt; “print working directory”, shows the current working directory.</li>
+<li><strong>ls</strong> -&gt; “list”, lists files and subdirectories in current directory.</li>
+<li><strong>clear</strong> -&gt; Clears your terminal.</li>
+<li><strong>cd /home/example</strong> -&gt; “change directory”, changes your working directory(in that case to “/home/example”). USE TAB-COMPLETION!!
 <ul>
-<li><em>cd -</em> -&gt; Takes you to your last working directory.</li>
-<li><em>cd</em> -&gt; Takes you to your home directory.</li>
-<li><em>cd ..</em> -&gt; Takes you to the parent directory.</li>
+<li><strong>cd -</strong> -&gt; Takes you to your last working directory.</li>
+<li><strong>cd</strong> -&gt; Takes you to your home directory.</li>
+<li><strong>cd ..</strong> -&gt; Takes you to the parent directory.</li>
 </ul></li>
-<li><em>CTRL+C</em> -&gt; Interrupts the current process.</li>
-<li><em>CTRL+S</em> -&gt; Suspends your terminal. DONT DO IT!!</li>
-<li><em>CTRL+D</em> -&gt; Sends an EOF(End of File) to stop a process.</li>
+<li><strong>CTRL+C</strong> -&gt; Interrupts the current process.</li>
+<li><strong>CTRL+S</strong> -&gt; Suspends your terminal. DONT DO IT!!</li>
+<li><strong>CTRL+D</strong> -&gt; Sends an EOF(End of File) to stop a process.</li>
+<li><strong>mkdir /home/example</strong> -&gt; “make directory”, creates a new directory (in this case “/home/example”).</li>
+<li><strong>mv test.txt /home/example</strong> -&gt; Moves a file or directory to the target director (moves the file test.txt into the folder “/home/example”).</li>
+<li><strong>touch test.txt</strong> -&gt; Creates the file test.txt. It actually updates the timestamp of a file but if it doesnt exist it creates a new one.</li>
+<li><strong>rm test.txt</strong> -&gt; Removes a file.</li>
+<li><strong>rm dir</strong> -&gt; Removes a directory.</li>
+<li><strong>chmod -x test.sh</strong> -&gt; Makes a file executable (in this case “test.sh”)</li>
+<li><strong>./test.sh</strong> -&gt; Runs test.sh if it is in you current working directory.</li>
+</ul>
+<p><strong>Vim commands</strong></p>
+<ul>
+<li><strong>i</strong> -&gt; “insert Mode”</li>
+<li><strong>ESC</strong> -&gt; Takes you to normal mode.</li>
+<li><strong>h,j,k,l</strong> -&gt; left, down, up, right.</li>
+<li><strong>ZZ</strong> -&gt; Saves the file and exits.</li>
+<li><strong>:q!</strong> -&gt; Saves the file without saving.</li>
 </ul>
 </body>
 </html>
