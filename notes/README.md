@@ -23,11 +23,16 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 
 **Notes:**
 
-* pwd = "print working directory", shows the current working directory.
-* ls = "list", lists files and subdirectories in current directory
-* clear = clears your terminal
-* cd /home/example = "change directory" changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
-  * cd - = takes you to your last working directory
-  * cd = takes you to your home directory
+* *pwd* -> "print working directory", shows the current working directory.
+* *ls* -> "list", lists files and subdirectories in current directory.
+* *clear* -> Clears your terminal.
+* *cd /home/example* -> "change directory", changes your working directory(in that case to "/home/example"). USE TAB-COMPLETION!!
+  * *cd -* -> Takes you to your last working directory.
+  * *cd* -> Takes you to your home directory.
+  * *cd ..* -> Takes you to the parent directory.
+* *CTRL+C* -> Interrupts the current process.
+* *CTRL+S* -> Suspends your terminal. DONT DO IT!!
+* *CTRL+D* -> Sends an EOF(End of File) to stop a process.
+
 
 
