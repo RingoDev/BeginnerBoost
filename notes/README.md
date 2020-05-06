@@ -18,6 +18,7 @@ Furthermore, I also created a Netlify account and got vim running on my VM. Beca
 ### Day 3
 
 When I got up in the morning I started working on setting up a SSH connection to GitLab for easier access. I had some problems but GitLab has a great [tutorial](https://docs.gitlab.com/ee/ssh/) on creating and sharing SSH-Keys right. I also researched about Pandoc and Markdown and made the decision to starting this "blog" to share my experience about the BeginnerBoost. After i finish this paragraph, I will try to write a Shell script to creae HTML files from Markdown with Pandoc and then push it up to GitLab.
+
 Afterwards I will take a look at Netflify and buynamescheap.com to look for a domain to publish this Webpage. I took a look at Rob's build script and I will probably just copy it because it does exactly what I want it to do.
 
  
