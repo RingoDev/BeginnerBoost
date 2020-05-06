@@ -49,6 +49,10 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **ZZ** -> Saves the file and exits.
 * **:q!** -> Exits the file without saving.
 
+**Todos:**
+
+* Learn about "magic wands" in VI.
+* Finish the Vimtutor.
 
 
 
