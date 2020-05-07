@@ -57,18 +57,22 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 
 ### Day 4
 
-We should try to scrab together our own vimrc files("borrow form other people).
+We should try to scrab together our own vimrc files("borrow from other people").
 
 * plugin manager plug
 * set background = dark
 * colorscheme = pablo
 * etc...
+* dont use .bashrc for your customization.
+* 
 
-my Questions:
+**my Questions:**
 
 * what is ix?
 * how do i edit my vimrc file
 * how do i make my own commands efficiently?
+* where do i find robs vimrc file?
+* how do i change the html template for this site.
 
 
 
