@@ -74,6 +74,8 @@ We should try to scrab together our own vimrc files("borrow from other people").
 * where do i find robs vimrc file?
 * how do i change the html template for this site.
 
+### Day 5
 
+Today is all about Networks.
 
 /bin/bash: now: command not found
