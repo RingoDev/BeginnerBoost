@@ -80,4 +80,6 @@ Today is all about Networks. I knew most of the stuff we talked about and used t
 
 I will try to get tmux set up as soon as possible to be able to have my notes always open and available while i try different stuff. Another thing to tackle today could be to add a bit of styling to the page by adding a different template html file to pandoc.
 
+### Day 6
 
+Today I installed OpenVPN and got it working with the free protonvpn server which I highly recommend. Additionally, I also got some aliases and scripts going to make my workflow easier and faster. I will work on the html template tomorrow.
