@@ -1,5 +1,5 @@
 ---
-Title: BeginnerBoost-Notes
+title: BeginnerBoost-Notes
 ---
 *Disclaimer: I only started taking notes from day 3 so the first two notes are written from memory.*
 

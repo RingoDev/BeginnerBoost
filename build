@@ -3,7 +3,7 @@
 render () {
   declare dir="$1"
   echo Building "$dir"
-  pandoc -s -o "$dir/index.html" --quiet "$dir/README.md"
+  pandoc -s -o "$dir/index.html" --quiet --template=assets/template.html "$dir/README.md"
 }
 
 if [[ -n "$*" ]];then
