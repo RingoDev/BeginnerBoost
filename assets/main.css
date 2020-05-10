@@ -11,15 +11,6 @@
   margin-left: .4rem;
 }
 
-a, .boxpoint a:hover, .homelink:hover, .nav-link:hover {
-  color: #00837d;
-  font-style: normal;
-}
-
-a.nav-link {
-  color: black;
-}
-
 .nav-bar {
   display: block;
   padding-left: 1rem;
@@ -33,15 +24,6 @@ a.nav-link {
   line-height: 2.2rem;
   background: white;
 }
-
-/*.nav-right {
-  position: absolute;
-  right: 1.5rem;
-  top: .7rem;
-  white-space: nowrap;
-  padding-left: 1.5rem;
-  display: flex;
-}*/
 
 .nav-links {
   display: none;
@@ -73,8 +55,5 @@ a.nav-link {
   margin-right: 1rem;
 }
 
-.nav-item a {
-  text-decoration: none;
-}
 
 
