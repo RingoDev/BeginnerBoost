@@ -19,12 +19,6 @@ a, .boxpoint a:hover, .homelink:hover, .nav-link:hover {
 a.nav-link {
   color: black;
 }
-a.nav-link, 
-a[href^="http"].nav-link:hover,
-{
-  font-style: normal;
-  content: "";
-}
 
 .nav-bar {
   display: block;
@@ -36,7 +30,6 @@ a[href^="http"].nav-link:hover,
   z-index: 99;
   right: 0;
   height: 3.8rem;
- /* border-bottom: 1px solid black;*/
   line-height: 2.2rem;
   background: white;
 }
@@ -72,7 +65,6 @@ a[href^="http"].nav-link:hover,
 .nav-item {
   text-decoration: none important;
   line-height: 2rem;
-  font-size: var(--nav-font-size);
   white-space: nowrap;
   display: inline-block;
   font-weight: bold;
