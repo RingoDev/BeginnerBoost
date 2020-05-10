@@ -83,3 +83,10 @@ I will try to get tmux set up as soon as possible to be able to have my notes al
 ### Day 6
 
 Today I installed OpenVPN and got it working with the free protonvpn server which I highly recommend. Additionally, I also got some aliases and scripts going to make my workflow easier and faster. I will work on the html template tomorrow.
+
+
+### Day 7
+
+I created a tmux.conf file and set C-a as prefix. I also tried adding some coloring.
+
+Now I am looking into alacritty and how to use it as default shell.
