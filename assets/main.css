@@ -34,14 +34,14 @@ a.nav-link {
   background: white;
 }
 
-.nav-right {
+/*.nav-right {
   position: absolute;
   right: 1.5rem;
   top: .7rem;
   white-space: nowrap;
   padding-left: 1.5rem;
   display: flex;
-}
+}*/
 
 .nav-links {
   display: none;
@@ -77,9 +77,4 @@ a.nav-link {
   text-decoration: none;
 }
 
-.nav-item a:hover {
- /* margin-bottom: -2px;
-  border-bottom: 2px solid #141414;
-  */
-}
 
