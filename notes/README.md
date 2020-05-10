@@ -106,3 +106,7 @@ Tmux shortcuts:
 * **prefix+j,k,h,l** switches panes (because i custom set it up to do so).
 
 ### Day 8
+
+
+
+
