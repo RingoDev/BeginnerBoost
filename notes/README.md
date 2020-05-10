@@ -89,19 +89,20 @@ Today I installed OpenVPN and got it working with the free protonvpn server whic
 
 I created a tmux.conf file and set C-a as prefix. I also tried adding some coloring.
 
-Now I am looking into alacritty and how to use it as default terminal.
-I am getting more and  more comfortable with vim.
+I set up alacritty as my main terminal and i customized colors and styling. I also added some styling to tmux which somehow didnt take over the alacritty colorscheme fully. While customizing these tools, I am also getting more and  more comfortable with vim.
 
 Vim shortcuts i found out today: 
 
-> **dd** cuts a whole line.
-> **p** pastes whatever is in your vim clipboard.
+* **dd** cuts a whole line.
+* **p** pastes whatever is in your vim clipboard.
 
 Alacritty shortcuts:
 
-> **mousewheel-click** copys your clipboard into the terminal.
+* **mousewheel-click** copys your clipboard into the terminal.
 
 Tmux shortcuts:
 
-> **prefix+c** opens a new window. This window gets renamed to the program that you are running in it.
-> **prefix+j,k,h,l** switches panes (because i custom set it up to do so).
+* **prefix+c** opens a new window. This window gets renamed to the program that you are running in it.
+* **prefix+j,k,h,l** switches panes (because i custom set it up to do so).
+
+### Day 8
