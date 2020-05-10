@@ -1,0 +1,89 @@
+.homelink {
+  color: black;
+  display: inline-block;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-decoration: none;
+  margin-left: .4rem;
+}
+
+a, .boxpoint a:hover, .homelink:hover, .nav-link:hover {
+  color: #00837d;
+  font-style: normal;
+}
+
+a.nav-link {
+  color: black;
+}
+a.nav-link, 
+a[href^="http"].nav-link:hover,
+{
+  font-style: normal;
+  content: "";
+}
+
+.nav-bar {
+  display: block;
+  padding-left: 1rem;
+  padding: .7rem 1.5rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  right: 0;
+  height: 3.8rem;
+ /* border-bottom: 1px solid black;*/
+  line-height: 2.2rem;
+  background: white;
+}
+
+.nav-right {
+  position: absolute;
+  right: 1.5rem;
+  top: .7rem;
+  white-space: nowrap;
+  padding-left: 1.5rem;
+  display: flex;
+}
+
+.nav-links {
+  display: none;
+  white-space: pre-wrap;
+  position: fixed;
+  top: 3.8rem;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 99;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  background: white;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+  line-height: 1rem;
+  list-style-type: none;
+}
+
+.nav-item {
+  text-decoration: none important;
+  line-height: 2rem;
+  font-size: var(--nav-font-size);
+  white-space: nowrap;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: -1rem;
+  text-align: left;
+  margin-right: 1rem;
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+ /* margin-bottom: -2px;
+  border-bottom: 2px solid #141414;
+  */
+}
+
