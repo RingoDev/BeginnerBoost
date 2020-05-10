@@ -89,4 +89,4 @@ Today I installed OpenVPN and got it working with the free protonvpn server whic
 
 I created a tmux.conf file and set C-a as prefix. I also tried adding some coloring.
 
-Now I am looking into alacritty and how to use it as default shell.
+Now I am looking into alacritty and how to use it as default terminal.
