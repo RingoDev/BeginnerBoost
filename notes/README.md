@@ -107,6 +107,12 @@ Tmux shortcuts:
 * **prefix+c** opens a new window. This window gets renamed to the program that you are running in it.
 * **prefix+j,k,h,l** switches panes (because i custom set it up to do so).
 
+Tomorrow I want to continue styling the webpage as well as learning how to use curl and ix correctly. I would also like to learn a bit more about css and styling in general. 
+
+It's also time to customize my prompt because it gets way to long.
+
+
+
 ### Day 8
 
 
