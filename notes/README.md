@@ -116,5 +116,13 @@ It's also time to customize my prompt because it gets way to long.
 ### Day 8
 
 
+Talk about OS and all the great Linux distributions.
+
+Possible read: Linux from scratch.
+
+Trying to get a better navbar working on the webpage. Will take a look at bootstrap css files for navbars.
+
+
+### Day 9
 
 
