@@ -1,4 +1,6 @@
-## My setup
+---
+title: My Setup
+---
 
 I am currently working on my Dell XPS 13 hooked up to a monitor. It is running Windows 10 and has served me well until now.
 
