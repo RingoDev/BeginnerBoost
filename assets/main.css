@@ -1,5 +1,8 @@
 .navbar{
   padding: 0.5rem 0.5rem;
+}
+
+.navbar-nav{
   flex-direction: row;
 }
 
