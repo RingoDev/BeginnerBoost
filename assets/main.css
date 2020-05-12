@@ -9,13 +9,11 @@
 .main{
   margin-left:5rem;
   margin-right:5rem;
+  font-size:1.3rem;
 }
 
 .nav-item{
   padding-left: 1rem;
-}
-p{
-  font-size: 2rem;
 }
 
 h1{
