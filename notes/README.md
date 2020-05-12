@@ -112,19 +112,18 @@ Tomorrow I want to continue styling the webpage as well as learning how to use c
 It's also time to customize my prompt because it gets way to long.
 
 
-
 ### Day 8
 
-
-Talk about OS and all the great Linux distributions.
+We talked about OS and all the great Linux distributions.
 
 Possible read: Linux from scratch.
 
-Trying to get a better navbar working on the webpage.I will take a look at bootstrap css files for navbars.
+Trying to get a better navbar working on the webpage. I will take a look at bootstrap css files for navbars.
 
 **Update:** I used a theme off [Bootswatch](https://bootswatch.com) and i believe it looks great. Over the course of this webpage I will probably rip the css apart and customize the site more and more. This is a great learning experience for my web-dev skills.
 
+
 ### Day 9
 
-
+Today I want to take a look at the security courses/games at [PicoCTF](https://picoctf.com) and [OverTheWire](https://overthewire.org/wargames).
 
