@@ -25,3 +25,9 @@ footer{
   font-size: 0.7rem;
   margin: 2rem;
 }
+
+/* Selects p tags inside footer*/
+
+.footer > p {
+  margin-bottom: 0.5rem;
+}
