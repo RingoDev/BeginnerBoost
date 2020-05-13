@@ -127,3 +127,13 @@ Trying to get a better navbar working on the webpage. I will take a look at boot
 
 Today I want to take a look at the security courses/games at [PicoCTF](https://picoctf.com) and [OverTheWire](https://overthewire.org/wargames).
 
+### Day 10
+
+I had a lot to do for Uni today so I will have to take a look at the recording of the stream. I believe the topics today were VMs and Docker.
+
+I have a different problem today. Openvpn isnt working on the laptop that I flashed POP!\_OS onto. I will erase all traces of it and start all over again because I probably missed a step in the beginning.
+
+If I am able to fix it, I will finally take a look at PicoCTF and OverTheWire. In order to do this I have to now how to use ssh though which will prove really useful and important in the future.
+
+
+### Day 11
