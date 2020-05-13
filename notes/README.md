@@ -135,5 +135,9 @@ I have a different problem today. Openvpn isnt working on the laptop that I flas
 
 If I am able to fix it, I will finally take a look at PicoCTF and OverTheWire. In order to do this I have to now how to use ssh though which will prove really useful and important in the future.
 
+**Update:** I was able to get VPN running on my machine by using the protonvpn client which was is great. I also upgraded my Proton account to the Basic-plan because I really enjoy their products and want to support them.
+
+Now it's time to start with PicoCTF.
+
 
 ### Day 11
