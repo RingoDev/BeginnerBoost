@@ -141,3 +141,7 @@ Now it's time to start with PicoCTF.
 
 
 ### Day 11
+
+I did some OverTheWire yesterday until 2 in the morning and i will continue with it today because it was quite fun.
+
+Rob talked about a lot of low level technichal components like BIOS, Booting, OS and more. Because I have a course at uni about OS right now, i knew most of it already. Thats why i decided to do something else and just listen to him in the background.
