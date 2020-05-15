@@ -159,11 +159,11 @@ I did some OverTheWire levels and reached bandit level 20 now, which I am quite 
 
 **OTW-Notes**
 
-* *nmap* scans a given IP and can provide Information such as which ports are listening, which OS is running on the port, etc.
-* *ssh* opens a *secure-shell* connection to a machine on the net.
-  * *ssh -i filename* lets you enter a machine by using its private ssh key.
-  * *ssh -t command* lets you send a command to a machine that you connect to.
-* *telnet* let's you communicate with a server over th TCP/IP protocol.
-* *openssl* is  *secure-socket-layer* encryption.
-  * *openssl s\_client -connect HOSTNAME:PORT* allows you to build a connection to an ssl encrypted server.
+* **nmap** scans a given IP and can provide Information such as which ports are listening, which OS is running on the port, etc.
+* **ssh* opens a **secure-shell** connection to a machine on the net.
+  * **ssh -i filename** lets you enter a machine by using its private ssh key.
+  * **ssh -t command** lets you send a command to a machine that you connect to.
+* **telnet** let's you communicate with a server over th TCP/IP protocol.
+* **openssl** is  *secure-socket-layer* encryption.
+  * **openssl s\_client -connect HOSTNAME:PORT** allows you to build a connection to an ssl encrypted server.
 
