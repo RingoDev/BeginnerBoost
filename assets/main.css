@@ -27,6 +27,9 @@
   margin: 2rem;
 }
 
+strong{
+  color: lightskyblue;
+}
 /* Selects p tags inside footer*/
 
 .footer > p {
