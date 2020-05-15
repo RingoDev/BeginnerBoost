@@ -9,7 +9,7 @@ I had discovered Rob's stream 2 weeks earlier and really enjoyed his teaching an
 
 The course started on May 4th and i was quite excited to start learning about Linux, the commandline and many other great things. On the Stream Rob talked about the basic tools you need to become a versatile and up-to-date developer such as a Chromium based webbrowser (Brave, Chromium, Chrome, Microsoft Edge) as well as setting up Discord and Protonmail to stay connected with your peers. He also talked about the course outline and the programmning languages that will be covered and that we could try them out at [Repl.it](https://repl.it).
 
-After the stream i set up a free account at [protonmail.com](https://protonmail.com) and I also premaurely got VirtualBox install on my Windows PC to run POP!\_OS. I installed Brave but had some problems and didnt really enjoy the look of it so I am continuing to use Chrome for now.
+After the stream i set up a free account at [protonmail.com](https://protonmail.com) and I also got VirtualBox installed on my Windows PC to run POP!\_OS. I installed Brave but had some problems and didnt really enjoy the look of it so I am continuing to use Chrome for now.
 
 ### Day 2
 
@@ -167,3 +167,4 @@ I did some OverTheWire levels and reached bandit level 20 now, which I am quite 
 * **openssl** is  *secure-socket-layer* encryption.
   * **openssl s\_client -connect HOSTNAME:PORT** allows you to build a connection to an ssl encrypted server.
 
+I am now only running Brave on my new Linux machine and will try to use as little Google prodcucts as possible but it is hard to let go of Google-Search.
