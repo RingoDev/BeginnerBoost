@@ -145,3 +145,24 @@ Now it's time to start with PicoCTF.
 I did some OverTheWire yesterday until 2 in the morning and i will continue with it today because it was quite fun.
 
 Rob talked about a lot of low level technichal components like BIOS, Booting, OS and more. Because I have a course at uni about OS right now, i knew most of it already. Thats why i decided to do something else and just listen to him in the background.
+
+### Day 12
+
+Today was about Package Managers.
+
+* apt and dpkg are Package Mangaers.
+* using apt update and apt upgrade is important.
+* snap resembles the apple Appstore and shouldnt be used.
+* Electron is unnecessary if you write a progressive Webapp.
+
+I did some OverTheWire levels and reached bandit level 20 now, which I am quite proud of.
+
+**OTW-Notes**
+* *nmap* scans a given IP and can provide Information such as which ports are listening, which OS is running on the port, etc.
+* *ssh* opens a *secure-shell* connection to a machine on the net.
+  * *ssh -i filename* lets you enter a machine by using its private ssh key.
+  * *ssh -t command* lets you send a command to a machine that you connect to.
+* *telnet* let's you communicate with a server over th TCP/IP protocol.
+* *openssl* is  *secure-socket-layer* encryption.
+  * *openssl s\_client -connect HOSTNAME:PORT* allows you to build a connection to an ssl encrypted server.
+
