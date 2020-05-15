@@ -157,7 +157,7 @@ Today was about Package Managers.
 
 I did some OverTheWire levels and reached bandit level 20 now, which I am quite proud of.
 
-**OTW-Notes**
+#### OTW-Notes
 
 * **nmap** scans a given IP and can provide Information such as which ports are listening, which OS is running on the port, etc.
 * **ssh** opens a *secure-shell* connection to a machine on the net.
