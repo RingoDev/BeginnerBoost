@@ -44,7 +44,7 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **chmod -x test.sh** -> Makes a file executable (in this case "test.sh").
 * **./test.sh** -> Runs test.sh if it is in you current working directory.
 
-**Vim commands**
+#### Vim Commands
 
 * **i** -> "insert Mode".
 * **ESC** -> Takes you to normal mode.
@@ -52,7 +52,7 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **ZZ** -> Saves the file and exits.
 * **:q!** -> Exits the file without saving.
 
-**Todos:**
+#### Todos:
 
 * Learn about "magic wands" in VI.
 * Finish the Vimtutor.
@@ -66,9 +66,9 @@ We should try to scrab together our own vimrc files("borrow from other people").
 * colorscheme = pablo
 * etc...
 * dont use .bashrc for your customization.
-* 
 
-**my Questions:**
+
+#### My Questions:
 
 * what is ix?
 * how do i edit my vimrc file
