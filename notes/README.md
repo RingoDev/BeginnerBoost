@@ -178,3 +178,6 @@ I am now only running Brave on my new Linux machine and will try to use as littl
 * **/etc/passwd** contains some interesting informations about users and their standard shells.
 * **echo $0** displays the name of the shell you are using.
 
+### Day 15
+
+Today i finished the OTW bandit section. They had some quite weird challenges with strange solutions which was quite fun.
