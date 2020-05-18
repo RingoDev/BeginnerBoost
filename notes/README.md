@@ -168,3 +168,13 @@ I did some OverTheWire levels and reached bandit level 20 now, which I am quite 
   * **openssl s\_client -connect HOSTNAME:PORT** allows you to build a connection to an ssl encrypted server.
 
 I am now only running Brave on my new Linux machine and will try to use as little Google prodcucts as possible but it is hard to let go of Google-Search.
+
+### Day 14
+
+#### OTW-Notes
+
+* **nc** is a universal networking tool.
+  * **nc -l -p PORTNUMBER** allows you to opene a connection at the specified port listen to data comming in as well as sending data to all listening devices.
+* **/etc/passwd** contains some interesting informations about users and their standard shells.
+* **echo $0** displays the name of the shell you are using.
+
