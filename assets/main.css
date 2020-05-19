@@ -3,9 +3,9 @@
 }
 
 hr{
-  padding-top: 1rem;
-  padding-bottom: 1rem;
   border-top: 0.5px solid white;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 
