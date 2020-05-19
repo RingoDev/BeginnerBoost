@@ -181,3 +181,9 @@ I am now only running Brave on my new Linux machine and will try to use as littl
 ### Day 15
 
 Today i finished the OTW bandit section. They had some quite weird challenges with strange solutions which was quite fun.
+
+### Day 16
+
+I started reading [The Linux Commandline](http://linuxcommand.org/tlcl.php) by William Shotts. It has so many important commands summarized, which everybody working with linux systems has to know.
+
+### Day 17
