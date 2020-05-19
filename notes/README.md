@@ -188,4 +188,6 @@ I started reading [The Linux Commandline](http://linuxcommand.org/tlcl.php) by W
 
 I also started a new WarGame at OTW called [Natas](https://overthewire.org/wargames/natas/) which is centered around a website and following different clues to get to the next level.
 
+---
+
 ### Day 17
