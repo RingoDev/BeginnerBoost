@@ -191,6 +191,12 @@ I am now only running Brave on my new Linux machine and will try to use as littl
 
 ---
 
+### Day 13
+
+Today was just a chill Saturday without any major coding.
+
+---
+
 ### Day 14
 
 #### OTW-Notes
