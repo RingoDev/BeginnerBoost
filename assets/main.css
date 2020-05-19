@@ -3,8 +3,10 @@
 }
 
 hr{
-  border-top: 1px solid white;
+  padding: 2rem 0 2rem 0;
+  border-top: 0.5px solid white;
 }
+
 
 .navbar-nav{
   flex-direction: row;
