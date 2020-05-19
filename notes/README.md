@@ -3,6 +3,8 @@ title: BeginnerBoost-Notes
 ---
 *Disclaimer: I only started taking notes from day 3 so the first two notes are written from memory.*
 
+---
+
 ### Day 1
 
 I had discovered Rob's stream 2 weeks earlier and really enjoyed his teaching and mentoring. Even though I had some exposure to programming before, it was only on a really abstract level (Java, Python), so i felt like i was lacking a lot of the basics that you need to become an efficient developer.
@@ -11,11 +13,15 @@ The course started on May 4th and i was quite excited to start learning about Li
 
 After the stream i set up a free account at [protonmail.com](https://protonmail.com) and I also got VirtualBox installed on my Windows PC to run POP!\_OS. I installed Brave but had some problems and didnt really enjoy the look of it so I am continuing to use Chrome for now.
 
+---
+
 ### Day 2
 
 Unfortunately, I missed most of the second day due to uni and only caught the last 5 minutes of the stream. Not giving myself a free day though, I worked through the tasklist on [rwx.gg](https://rwx.gg/week1/#day-2) and set myself up with brand new GitHub and GitLab accounts registered to my new protonmail address.
 
 Furthermore, I also created a Netlify account and got vim running on my VM. Because It was late already, I went to bed straight after but not without some excitement to start working on a markdown-based Website the next day.
+
+---
 
 ### Day 3
 
@@ -44,6 +50,8 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **chmod -x test.sh** -> Makes a file executable (in this case "test.sh").
 * **./test.sh** -> Runs test.sh if it is in you current working directory.
 
+---
+
 #### Vim Commands
 
 * **i** -> "insert Mode".
@@ -56,6 +64,8 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 
 * Learn about "magic wands" in VI.
 * Finish the Vimtutor.
+
+---
 
 ### Day 4
 
@@ -76,6 +86,8 @@ We should try to scrab together our own vimrc files("borrow from other people").
 * where do i find robs vimrc file?
 * how do i change the html template for this site.
 
+---
+
 ### Day 5
 
 Today is all about Networks. I knew most of the stuff we talked about and used the time to get myself a domain. From this day on ringodev.com belongs to me. I used namecheap.com to buy the domain and i pointed it at the Netlify DNS this site is hosted on. It was quite an easy task and also really cheap. I pay only about 10€/year for the domain. So if you are interested in starting a business or just want to get your own space on the web, go do it now!
@@ -86,6 +98,7 @@ I will try to get tmux set up as soon as possible to be able to have my notes al
 
 Today I installed OpenVPN and got it working with the free protonvpn server which I highly recommend. Additionally, I also got some aliases and scripts going to make my workflow easier and faster. I will work on the html template tomorrow.
 
+---
 
 ### Day 7
 
@@ -111,6 +124,7 @@ Tomorrow I want to continue styling the webpage as well as learning how to use c
 
 It's also time to customize my prompt because it gets way to long.
 
+---
 
 ### Day 8
 
@@ -122,10 +136,13 @@ Trying to get a better navbar working on the webpage. I will take a look at boot
 
 **Update:** I used a theme off [Bootswatch](https://bootswatch.com) and i believe it looks great. Over the course of this webpage I will probably rip the css apart and customize the site more and more. This is a great learning experience for my web-dev skills.
 
+---
 
 ### Day 9
 
 Today I want to take a look at the security courses/games at [PicoCTF](https://picoctf.com) and [OverTheWire](https://overthewire.org/wargames).
+
+---
 
 ### Day 10
 
@@ -139,12 +156,15 @@ If I am able to fix it, I will finally take a look at PicoCTF and OverTheWire. I
 
 Now it's time to start with PicoCTF.
 
+---
 
 ### Day 11
 
 I did some OverTheWire yesterday until 2 in the morning and i will continue with it today because it was quite fun.
 
 Rob talked about a lot of low level technichal components like BIOS, Booting, OS and more. Because I have a course at uni about OS right now, i knew most of it already. Thats why i decided to do something else and just listen to him in the background.
+
+---
 
 ### Day 12
 
@@ -169,6 +189,8 @@ I did some OverTheWire levels and reached bandit level 20 now, which I am quite 
 
 I am now only running Brave on my new Linux machine and will try to use as little Google prodcucts as possible but it is hard to let go of Google-Search.
 
+---
+
 ### Day 14
 
 #### OTW-Notes
@@ -178,9 +200,13 @@ I am now only running Brave on my new Linux machine and will try to use as littl
 * **/etc/passwd** contains some interesting informations about users and their standard shells.
 * **echo $0** displays the name of the shell you are using.
 
+---
+
 ### Day 15
 
 Today i finished the OTW bandit section. They had some quite weird challenges with strange solutions which was quite fun.
+
+---
 
 ### Day 16
 
