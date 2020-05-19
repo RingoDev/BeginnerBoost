@@ -186,4 +186,6 @@ Today i finished the OTW bandit section. They had some quite weird challenges wi
 
 I started reading [The Linux Commandline](http://linuxcommand.org/tlcl.php) by William Shotts. It has so many important commands summarized, which everybody working with linux systems has to know.
 
+I also started a new WarGame at OTW called [Natas](https://overthewire.org/wargames/natas/) which is centered around a website and following different clues to get to the next level.
+
 ### Day 17
