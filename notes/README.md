@@ -50,8 +50,6 @@ Afterwards I will take a look at Netflify and buynamescheap.com to look for a do
 * **chmod -x test.sh** -> Makes a file executable (in this case "test.sh").
 * **./test.sh** -> Runs test.sh if it is in you current working directory.
 
----
-
 #### Vim Commands
 
 * **i** -> "insert Mode".
