@@ -250,7 +250,7 @@ Vim is only as powerful as its shell, so **use bash not zsh**.
 
 #### Vi/Vim Commands
 
-* **!!** is a shortcut for **:.!**, which allows you to send text to a script and replace it with the result. This makes Vi very powerful.
+* **!!** is a shortcut for **:.!** which allows you to send text to a script and replace it with the result. This makes Vi very powerful.
 
 ---
 
