@@ -230,7 +230,7 @@ I will have to catch up with all the vim shortcuts and workflow optimizations ro
 
 * **ps** shows you all the running processes.
 * **pstree** shows you all the processes in a tree form. You can see which process started which.
-* **daemon** is a servant that works for you, like a server or a program.
+* a **daemon** is a servant that works for you, like a server or a program.
 * **top** shows you different system stats, like cpu usage, ram usage, etc.
 * **ps -ef | grep discord** helps you find a certain process. 
 * **pgrep** is the modern way to find processes.
