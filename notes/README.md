@@ -222,4 +222,11 @@ I also started a new WarGame at OTW called [Natas](https://overthewire.org/warga
 
 ---
 
-### Day 17
+### Day 19
+
+The last 2 days I didnt spend much time on Linux due to uni. I am working on a java project in which we code a video converter as a desktop applikation. If you want to take a look at the project [click here](https://github.com/itssme/JKU_mms_project).
+
+I will have to catch up with all the vim shortcuts and workflow optimizations rob showed this week.
+
+## Day 20
+
