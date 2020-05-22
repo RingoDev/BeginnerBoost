@@ -238,8 +238,11 @@ I will have to catch up with all the vim shortcuts and workflow optimizations ro
 * *bg* will place a process in the background which is normally not what you want.
 * *CTRL S* will suspend a process which is reverted by *CTRL Q*.
 * *CTRL C* should be used to stop a process.
-* *
+ 
+Aliases should only be used for real simple commands.
+
+
 ---
 
-## Day 20
+### Day 20
 
