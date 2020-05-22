@@ -228,20 +228,20 @@ The last 2 days I didnt spend much time on Linux due to uni. I am working on a j
 
 I will have to catch up with all the vim shortcuts and workflow optimizations rob showed this week.
 
-* *ps* shows you all the running processes.
-* *pstree* shows you all the processes in a tree form. You can see which process started which.
-* *daemon* is a servant that works for you, like a server or a program.
-* *top* shows you different system stats, like cpu usage, ram usage, etc.
-* *ps -ef | grep discord* helps you find a certain process. 
-* *pgrep* is the modern way to find processes.
-* *pkill* will kill all the processes with a give name.
-* *bg* will place a process in the background which is normally not what you want.
-* *CTRL S* will suspend a process which is reverted by *CTRL Q*.
-* *CTRL C* should be used to stop a process.
+* **ps** shows you all the running processes.
+* **pstree** shows you all the processes in a tree form. You can see which process started which.
+* **daemon** is a servant that works for you, like a server or a program.
+* **top** shows you different system stats, like cpu usage, ram usage, etc.
+* **ps -ef | grep discord** helps you find a certain process. 
+* **pgrep** is the modern way to find processes.
+* **pkill** will kill all the processes with a give name.
+* **bg** will place a process in the background which is normally not what you want.
+* **CTRL S** will suspend a process which is reverted by *CTRL Q*.
+* **CTRL C** should be used to stop a process.
  
 Aliases should only be used for real simple commands.
 
-
+* **env** displays all environment variables.
 ---
 
 ### Day 20
